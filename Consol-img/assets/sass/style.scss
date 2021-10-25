@@ -1,0 +1,15 @@
+.user-img {
+    position: relative;
+    height: 450px;
+    width: 800px;
+    margin: 20px;
+    img {
+        height: 100%;
+        width: 100%;
+    }
+    button {
+        position: absolute;
+        padding: 25px;
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,25 @@
+#box1 {
+    background-image: url(../img/bg-blog-header.jpg);
+}
+
+#box2 {
+    background-image: url(../img/bg-blog2-header.jpg);
+}
+
+#box3 {
+    background-image: url(../img/logo.png);
+}
+
+.divs {
+    width: 300px;
+    height: 300px;
+    border-color: green;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#parent>div {
+    display: flex;
+    float: left;
+    margin-left: 20px;
+}
